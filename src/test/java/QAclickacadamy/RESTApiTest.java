@@ -14,6 +14,7 @@ public class RESTApiTest {
 	public void DeleteTwitter() {
 		System.out.println("DeleteTwitter");
 		System.out.println("Changes2");
+		System.out.println("Changes3 by American guy");
 }
 
 }
