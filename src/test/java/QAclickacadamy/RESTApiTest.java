@@ -13,6 +13,7 @@ public class RESTApiTest {
 	@Test
 	public void DeleteTwitter() {
 		System.out.println("DeleteTwitter");
-	}
+		System.out.println("Changes2");
+}
 
 }
