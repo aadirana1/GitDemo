@@ -15,4 +15,8 @@ public class AppiumTest {
 		System.out.println("IOSAPPS");
 	}
 
+	@Test
+	public void American() {
+		System.out.println("QAmericanApp1");
+	}
 }
