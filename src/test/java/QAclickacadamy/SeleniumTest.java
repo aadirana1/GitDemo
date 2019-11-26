@@ -16,7 +16,10 @@ public class SeleniumTest {
 		public void elementUI() {
 			System.out.println("elementUI");
 		}
-
+@Test
+public void AsianBranch() {
+	System.out.println("AsianBranch1");
+}
 	}
 
 }
